@@ -5,7 +5,15 @@ import {Link} from 'react-router-dom'
 const Footer = () => {
     return(
         <footer>
-            <div>Footer</div>
+            <div calssName="flexbox-container">
+                <div className="logo">
+
+                    <span></span>
+
+                </div>
+
+
+            </div>
         </footer>
     
     )
