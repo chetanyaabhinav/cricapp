@@ -25,7 +25,51 @@
         "topic": "Virat Kohli",
         "title": "Best games in history"
       }
-    ]
+    ],
+    "blocks": [
+        {
+          "id": "p1",
+          "type": "lg",
+          "image": "1.jpg",
+          "title": "rohit third double ton in one day international",
+          "link": "/news"
+        },
+        {
+          "id": "p2",
+          "type": "md",
+          "image": "2.jpg",
+          "title": "Steve smith thrashed england in ashes",
+          "link": "/news"
+        },
+        {
+          "id": "p3",
+          "type": "sm",
+          "image": "3.jpg",
+          "title": "abd holds No 1 rank ",
+          "link": "/news"
+        },
+        {
+          "id": "p4",
+          "type": "sm",
+          "image": "4.jpg",
+          "title": "Richest cricketer",
+          "link":  "/news"
+        },
+        {
+          "id": "p5",
+          "type": "md",
+          "image": "5.jpg",
+          "title": "cook double ton helped england",
+          "link":  "/news"
+        },
+        {
+          "id": "p6",
+          "type": "lg",
+          "image": "6.jpg",
+          "title": "virat kohli and anushka invited pm narendra modi ",
+          "link":  "/news"
+        }
+      ]
   },
   "subcriptions": [
     {
