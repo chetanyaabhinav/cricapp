@@ -1,0 +1,30 @@
+{
+    "home": {
+      "slider": [
+        {
+          "id": "1",
+          "cover": "cover_1.jpg",
+          "topic": "Mahendra singh Dhoni",
+          "title": "Top scorer of the year"
+        },
+        {
+          "id": "2",
+          "cover": "cover_2.jpg",
+          "topic": "David Warner",
+          "title": "Another win"
+        },
+        {
+          "id": "3",
+          "cover": "cover_3.jpg",
+          "topic": "ab de villeirs",
+          "title": "south africa lost match"
+        },
+        {
+            "id": "4",
+            "cover": "cover_4.jpg",
+            "topic": "Virat Kohli",
+            "title": "Best games in history"
+        }
+      ]
+    }
+}
