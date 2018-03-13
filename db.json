@@ -27,49 +27,69 @@
       }
     ],
     "blocks": [
-        {
-          "id": "p1",
-          "type": "lg",
-          "image": "1.jpg",
-          "title": "rohit third double ton in one day international",
-          "link": "/news"
-        },
-        {
-          "id": "p2",
-          "type": "md",
-          "image": "2.jpg",
-          "title": "Steve smith thrashed england in ashes",
-          "link": "/news"
-        },
-        {
-          "id": "p3",
-          "type": "sm",
-          "image": "3.jpg",
-          "title": "abd holds No 1 rank ",
-          "link": "/news"
-        },
-        {
-          "id": "p4",
-          "type": "sm",
-          "image": "4.jpg",
-          "title": "Richest cricketer",
-          "link":  "/news"
-        },
-        {
-          "id": "p5",
-          "type": "md",
-          "image": "5.jpg",
-          "title": "cook double ton helped england",
-          "link":  "/news"
-        },
-        {
-          "id": "p6",
-          "type": "lg",
-          "image": "6.jpg",
-          "title": "virat kohli and anushka invited pm narendra modi ",
-          "link":  "/news"
-        }
-      ]
+      {
+        "id": "p1",
+        "type": "lg",
+        "image": "1.jpg",
+        "title": "rohit third double ton in one day international",
+        "link": "/news"
+      },
+      {
+        "id": "p2",
+        "type": "md",
+        "image": "2.jpg",
+        "title": "Steve smith thrashed england in ashes",
+        "link": "/news"
+      },
+      {
+        "id": "p3",
+        "type": "sm",
+        "image": "3.jpg",
+        "title": "abd holds No 1 rank ",
+        "link": "/news"
+      },
+      {
+        "id": "p4",
+        "type": "sm",
+        "image": "4.jpg",
+        "title": "Richest cricketer",
+        "link": "/news"
+      },
+      {
+        "id": "p5",
+        "type": "md",
+        "image": "5.jpg",
+        "title": "cook double ton helped england",
+        "link": "/news"
+      },
+      {
+        "id": "p6",
+        "type": "lg",
+        "image": "6.jpg",
+        "title": "virat kohli and anushka invited pm narendra modi ",
+        "link": "/news"
+      }
+    ],
+    "poll": [
+      {
+        "id": "p1",
+        "team": "Golden State",
+        "thumg": "ss",
+        "count": 2543
+      },
+      {
+        "id": "p1",
+        "team": "Cavaliers",
+        "thumg": "ss",
+        "count": 2544
+      },
+      {
+        "id": "p1",
+        "team": "New york",
+        "thumg": "ss",
+        "count": 2
+      }
+    ]
   },
   "subcriptions": [
     {
@@ -107,6 +127,446 @@
     {
       "email": "wq@email.com",
       "id": 9
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "India",
+      "logo": "india.png",
+      "poll": "true",
+      "count": 47,
+      "description": "Indian cricket team.",
+      "squad": [
+        {
+          "name": "Virat kohli",
+          "Age": 29,
+          "Matches": 215,
+          "Runs": 9325,
+          "Catches": 114
+        },
+        {
+          "name": "Rohit sharma",
+          "Age": 28,
+          "Matches": 236,
+          "Runs": 12345,
+          "Catches": 132
+        },
+        {
+          "name": "Mahendra singh dhoni",
+          "Age": 35,
+          "Matches": 315,
+          "Runs": 10005,
+          "Catches": 324
+        },
+        {
+          "name": "Suresh raina",
+          "Age": 20,
+          "Matches": 75,
+          "Runs": 2345,
+          "Catches": 124
+        },
+        {
+          "name": "Ajinkya rehane",
+          "Age": 25,
+          "Matches": 110,
+          "Runs": 3215,
+          "Catches": 12
+        },
+        {
+          "name": "Manish pandey",
+          "Age": 27,
+          "Matches": 45,
+          "Runs": 1025,
+          "Catches": 15
+        },
+        {
+          "name": "Dinesh Kartik",
+          "Age": 29,
+          "Matches": 165,
+          "Runs": 5234,
+          "Catches": 114
+        },
+        {
+          "name": "Hardik",
+          "Age": 22,
+          "Matches": 123,
+          "Runs": 5132,
+          "Catches": 125
+        },
+        {
+          "name": "Bhuvneshwar kumar",
+          "Age": 24,
+          "Matches": 211,
+          "Runs": 2347,
+          "Catches": 124
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "West indies",
+      "logo": "wi.png",
+      "poll": "true",
+      "count": 33,
+      "description": "west indies cricket team",
+      "squad": [
+        {
+          "name": "Ron Howard",
+          "Age": 23,
+          "Matches": 315,
+          "Runs": 4675,
+          "Catches": 14
+        },
+        {
+          "name": "Justin Cane",
+          "Age": 24,
+          "Matches": 155,
+          "Runs": 5475,
+          "Catches": 136
+        },
+        {
+          "name": "Roberto Roboto",
+          "Age": 21,
+          "Matches": 15,
+          "Runs": 355,
+          "Catches": 19
+        },
+        {
+          "name": "Nick Jones",
+          "Age": 30,
+          "Matches": 75,
+          "Runs": 5213,
+          "Catches": 154
+        },
+        {
+          "name": "James Cotton",
+          "Age": 23,
+          "Matches": 10,
+          "Runs": 123,
+          "Catches": 14
+        },
+        {
+          "name": "Michael Jackson",
+          "Age": 25,
+          "Matches": 15,
+          "Runs": 512,
+          "Catches": 1
+        },
+        {
+          "name": "David Parser",
+          "Age": 32,
+          "Matches": 65,
+          "Runs": 2345,
+          "Catches": 12
+        },
+        {
+          "name": "Montgo",
+          "Age": 22,
+          "Matches": 15,
+          "Runs": 525,
+          "Catches": 19
+        },
+        {
+          "name": "Usuain Osom",
+          "Age": 21,
+          "Matches": 211,
+          "Runs": 52,
+          "Catches": 214
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "south africa",
+      "logo": "southafrica.png",
+      "poll": "false",
+      "count": 16,
+      "description": "south african team",
+      "squad": [
+        {
+          "name": "Ab de villiers",
+          "Age": 33,
+          "Matches": 315,
+          "Runs": 10235,
+          "Catches": 144
+        },
+        {
+          "name": "abraham",
+          "Age": 24,
+          "Matches": 55,
+          "Runs": 2325,
+          "Catches": 14
+        },
+        {
+          "name": "Hashim amla",
+          "Age": 21,
+          "Matches": 15,
+          "Runs": 512,
+          "Catches": 14
+        },
+        {
+          "name": "jonty",
+          "Age": 20,
+          "Matches": 5,
+          "Runs": 123,
+          "Catches": 14
+        },
+        {
+          "name": "James Cotton",
+          "Age": 5,
+          "Matches": 10,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "Michael Jackson",
+          "Age": 7,
+          "Matches": 15,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "David Parser",
+          "Age": 9,
+          "Matches": 6.5,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "Montgomery Burn",
+          "Age": 12,
+          "Matches": 0.5,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "Usuain Osom",
+          "Age": 11,
+          "Matches": 1,
+          "Runs": 5,
+          "Catches": 14
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pakistan",
+      "logo": "pak.png",
+      "poll": "false",
+      "count": 16,
+      "description": " The Pakistan national cricket team, popularly referred to as the Shaheens (lit: Falcons) and Men in Green,represents Pakistan in international cricket and is administered by the Pakistan Cricket Board (PCB). The team is a full member of the International Cricket Council, and participates in Test, ODI and Twenty20 International cricket matches.",
+      "squad": [
+        {
+          "name": "Sarfraz Ahmed",
+          "Age": 31,
+          "Matches": 123,
+          "Runs": 5223,
+          "Catches": 141
+        },
+        {
+          "name": "Ahmed Shehzad",
+          "Age": 24,
+          "Matches": 155,
+          "Runs": 4325,
+          "Catches": 84
+        },
+        {
+          "name": "Azhar Ali",
+          "Age": 32,
+          "Matches": 251,
+          "Runs": 7625,
+          "Catches": 114
+        },
+        {
+          "name": "Babar Azam",
+          "Age": 22,
+          "Matches": 82,
+          "Runs": 3215,
+          "Catches": 14
+        },
+        {
+          "name": "Fakhar Zaman",
+          "Age": 25,
+          "Matches": 24,
+          "Runs": 842,
+          "Catches": 14
+        },
+        {
+          "name": "Haris Sohail",
+          "Age": 27,
+          "Matches": 115,
+          "Runs": 5321,
+          "Catches": 112
+        },
+        {
+          "name": "Hasan Ali",
+          "Age": 19,
+          "Matches": 65,
+          "Runs": 235,
+          "Catches": 32
+        },
+        {
+          "name": "Imad Wasim",
+          "Age": 27,
+          "Matches": 43,
+          "Runs": 115,
+          "Catches": 15
+        },
+        {
+          "name": "Mohammad Amir",
+          "Age": 26,
+          "Matches": 171,
+          "Runs": 1235,
+          "Catches": 16
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Australia",
+      "logo": "Australia.png",
+      "poll": "true",
+      "count": 34,
+      "description": "Australian cricket team",
+      "squad": [
+        {
+          "name": "Steve smith",
+          "Age": 23,
+          "Matches": 125,
+          "Runs": 5213,
+          "Catches": 12
+        },
+        {
+          "name": "David Warner",
+          "Age": 24,
+          "Matches": 55,
+          "Runs": 4215,
+          "Catches": 13
+        },
+        {
+          "name": "mitch Marsh",
+          "Age": 21,
+          "Matches": 15,
+          "Runs": 215,
+          "Catches": 14
+        },
+        {
+          "name": "shane watson",
+          "Age": 30,
+          "Matches": 75,
+          "Runs": 3125,
+          "Catches": 112
+        },
+        {
+          "name": "mike hussey",
+          "Age": 34,
+          "Matches": 310,
+          "Runs": 10235,
+          "Catches": 124
+        },
+        {
+          "name": "Michael Jackson",
+          "Age": 7,
+          "Matches": 15,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "David Parser",
+          "Age": 9,
+          "Matches": 6.5,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "Montgomery Burn",
+          "Age": 12,
+          "Matches": 0.5,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "Usuain Osom",
+          "Age": 11,
+          "Matches": 1,
+          "Runs": 5,
+          "Catches": 14
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Newzealand",
+      "logo": "nz.png",
+      "poll": "true",
+      "count": 35,
+      "description": "newzealand cricket team",
+      "squad": [
+        {
+          "name": "Martin Guptil",
+          "Age": 33,
+          "Matches": 315,
+          "Runs": 5321,
+          "Catches": 114
+        },
+        {
+          "name": "Justin",
+          "Age": 24,
+          "Matches": 5,
+          "Runs": 345,
+          "Catches": 15
+        },
+        {
+          "name": "Kane williamson",
+          "Age": 21,
+          "Matches": 15,
+          "Runs": 521,
+          "Catches": 19
+        },
+        {
+          "name": "fleming",
+          "Age": 30,
+          "Matches": 175,
+          "Runs": 5345,
+          "Catches": 11
+        },
+        {
+          "name": "James Cotton",
+          "Age": 5,
+          "Matches": 10,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "Michael Jackson",
+          "Age": 7,
+          "Matches": 15,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "David Parser",
+          "Age": 9,
+          "Matches": 6.5,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "Montgomery Burn",
+          "Age": 12,
+          "Matches": 0.5,
+          "Runs": 5,
+          "Catches": 14
+        },
+        {
+          "name": "Usuain Osom",
+          "Age": 11,
+          "Matches": 1,
+          "Runs": 5,
+          "Catches": 14
+        }
+      ]
     }
   ]
 }

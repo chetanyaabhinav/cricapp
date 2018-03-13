@@ -12,9 +12,7 @@ const Header = () => {
                 <nav>
                     <Link to="/teams">Teams</Link>
                     <div className="flexbox-container">
-                <nav>
-                  <Link to="/teams">Teams</Link>
-                </nav>           
+                          
             </div>
 
 
